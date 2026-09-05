@@ -4,8 +4,6 @@
 
 **Full-Stack Developer** — 5 years building servers & web products, 3 of them freelance. Currently frontend at [Script Agency](https://thescript.agency).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
 </div>
 
 <br>
@@ -15,7 +13,6 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -66,7 +63,6 @@ Building frontend at **[Script Agency](https://thescript.agency)** ([@Factum-stu
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asesu23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asesu23&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 
 </div>

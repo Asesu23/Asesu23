@@ -27,6 +27,7 @@
 ![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")
 ![Docker](https://skillicons.dev/icons?i=docker "Docker")
 ![Nginx](https://skillicons.dev/icons?i=nginx "Nginx")
+![Apache](https://skillicons.dev/icons?i=apache "Apache")
 ![Linux](https://skillicons.dev/icons?i=linux "Linux")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")

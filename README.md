@@ -2,7 +2,7 @@
 
 # Hey, I'm Mikhail 👋
 
-**Full-Stack Developer** — 5 years building servers & web products, 3 of them freelance. Currently frontend at [Script Agency](https://thescript.agency).
+5 years building servers & web products, 3 of them freelance. Currently frontend at [Script Agency](https://thescript.agency).
 
 </div>
 

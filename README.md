@@ -71,7 +71,7 @@ Building frontend at **[Script Agency](https://thescript.agency)** ([@Factum-stu
 <br>
 <a href="https://github.com/Asesu23/mimo-profile-widget">(By the way, I made this widget myself)</a>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asesu23&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 

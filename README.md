@@ -79,6 +79,6 @@ Building frontend at **[Script Agency](https://thescript.agency)** ([@Factum-stu
 
 <br>
 
-## Off the keyboard
+## Off the keyboard 🎹 
 
 Running a self-hosted home server, resurfacing old electronics through resale, playing 4 instruments, and reading into psychology on the side.
